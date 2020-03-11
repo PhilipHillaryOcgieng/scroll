@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+   android:background="#000">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/et_phillip_id"
+                android:layout_width="350dp"
+                android:layout_height="50dp"
+                android:text="Phillip ochieng"
+                android:textSize="20dp"
+                android:textColor="#ffffff"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp">
+            </TextView>
+            <TextView
+                android:id="@+id/et_basmah_id"
+                android:layout_width="350dp"
+                android:layout_height="50dp"
+                android:text="Basmah Ali"
+                android:textSize="20dp"
+                android:textColor="#ffffff"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp">
+            </TextView>
+            <TextView
+                android:id="@+id/et_habib_id"
+                android:layout_width="350dp"
+                android:layout_height="50dp"
+                android:text="Habib Hussein"
+                android:textSize="20dp"
+                android:textColor="#ffffff"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp">
+            </TextView>
+            <TextView
+                android:id="@+id/et_emmanuel_id"
+                android:layout_width="350dp"
+                android:layout_height="50dp"
+                android:text="Emmanuel Otieno"
+                android:textSize="20dp"
+                android:textColor="#ffffff"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp">
+            </TextView>
+            <TextView
+                android:id="@+id/et_owira_id"
+                android:layout_width="350dp"
+                android:layout_height="50dp"
+                android:text="Rodgers Owira"
+                android:textSize="20dp"
+                android:textColor="#ffffff"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp">
+            </TextView>
+            <TextView
+                android:id="@+id/et_Purity_id"
+                android:layout_width="350dp"
+                android:layout_height="50dp"
+                android:text="Purity Idris"
+                android:textSize="20dp"
+                android:textColor="#ffffff"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp">
+            </TextView>
+
+            <TextView
+                android:id="@+id/et_eldon_id"
+                android:layout_width="350dp"
+                android:layout_height="50dp"
+                android:text="Eldon Digo"
+                android:textSize="20dp"
+                android:textColor="#ffffff"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp">
+            </TextView>
+            <TextView
+                android:id="@+id/et_Dorcas_id"
+                android:layout_width="350dp"
+                android:layout_height="50dp"
+                android:text="Dorcas Chelangat"
+                android:textSize="20dp"
+                android:textColor="#ffffff"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp">
+            </TextView>
+            <TextView
+                android:id="@+id/et_vall_id"
+                android:layout_width="350dp"
+                android:layout_height="50dp"
+                android:text="Maggie Vall"
+                android:textSize="20dp"
+                android:textColor="#ffffff"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp">
+            </TextView>
+            <TextView
+                android:id="@+id/et_shanice_id"
+                android:layout_width="350dp"
+                android:layout_height="50dp"
+                android:text="Shanice Wetu"
+                android:textSize="20dp"
+                android:textColor="#ffffff"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp">
+            </TextView>
+            <TextView
+                android:id="@+id/et_charles_id"
+                android:layout_width="350dp"
+                android:layout_height="50dp"
+                android:text="Charles Otieno"
+                android:textSize="20dp"
+                android:textColor="#ffffff"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp">
+            </TextView>
+
+            <TextView
+                android:id="@+id/et_winnie_id"
+                android:layout_width="350dp"
+                android:layout_height="50dp"
+                android:text="Winnie Atieno"
+                android:textSize="20dp"
+                android:textColor="#ffffff"
+                android:gravity="center"
+                android:layout_gravity="center"
+                android:layout_marginTop="20dp">
+            </TextView>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+</RelativeLayout>
